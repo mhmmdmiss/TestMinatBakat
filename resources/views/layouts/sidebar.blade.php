@@ -128,14 +128,14 @@
           </li>
           <li class="nav-item">
             <a href="/ujian" class="nav-link">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <i class="nav-icon fas fa-circle-alt"></i>
               <p>Ujian</p>
             </a>
           </li>
 
           <li class="nav-item">
             <a href="/hasil_ujian" class="nav-link">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <i class="nav-icon fas fa-circle-alt"></i>
               <p>Hasil Ujian</p>
             </a>
           </li>
